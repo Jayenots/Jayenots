@@ -1,6 +1,6 @@
 <h1>Hi, I'm Jason, an <a href="https://linkedin.com//in/jason-stone876/">IT Professional</a> 💻
   
-<a href="https://imgur.com/xABySUD"><img src="https://i.imgur.com/xABySUD.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/YIFyKXF"><img src="https://i.imgur.com/YIFyKXF.gif" title="source: imgur.com" /></a>
 
 
 <h2>👨‍💻 Information Technology Projects:</h2>
