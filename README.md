@@ -14,10 +14,12 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 
 - 🔭 I’m currently working on ...
-  - any project that will aid my overall cybersecurity skills 
+  - Any project that will aid my overall cybersecurity skills 
+  - Free bootcamps
 
 - 🌱 I’m currently learning ...
   - PCI DSS
+  - Qualys QA
 
 <h2>🤳Connect with me:</h2>
 
