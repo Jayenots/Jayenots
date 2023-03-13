@@ -1,6 +1,6 @@
 <h1>Hi, I'm Jason, an <a href="https://linkedin.com//in/jason-stone876/">IT Professional</a> 💻
   
-https://tenor.com/view/snake-ai-gif-18455469  
+<a href="https://imgur.com/ByHU5vw"><img src="https://i.imgur.com/ByHU5vw.gif" title="source: imgur.com" /></a>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
