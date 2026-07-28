@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jason, an <a href="https://linkedin.com//in/jason-stone876/">IT Professional</a> 💻
+<h1>Hi, I'm Jason, an <a href="https://linkedin.com//in/jason-stone876/">IT Learner</a> 💻
   
   
 
