@@ -1,21 +1,17 @@
-<h1>Hi, I'm Jason, an <a href="https://linkedin.com//in/jason-stone876/">IT Learner</a> 💻
-  
-  
+# Jason Stone
 
-<a   href="https://imgur.com/D1uJ89p">   <img src="https://i.imgur.com/D1uJ89p.gif"       title="source: imgur.com" /></a>
+Cybersecurity GRC | Security Assurance | Privacy | Cloud Governance
 
- 
- 
+I work across governance, risk, compliance, audit, privacy, and control testing, with a focus on evidence-backed assurance and practical security governance.
 
-<h2>👨‍💻 Information Technology Projects:</h2>
-- 🔭 I’m currently working on ...
-  - Any project that will aid my overall cybersecurity skills 
-  - Free bootcamps
-- 🌱 I’m currently learning ...
-  - PCI DSS
-  - Qualys QA
-<h2>🤳Connect with me:</h2>
+## Focus Areas
+- ISO/IEC 27001, 27701, and 42001
+- Security assurance and control testing
+- Third-party risk management
+- Privacy operations
+- Audit evidence and remediation tracking
+- Cloud governance
 
-[linkedin]: https://linkedin.com/in/jason-stone876/
-
--->
+## Current Work
+- Internal assessment and review across cloud security projects
+- Building a public GRC portfolio based on evidence, control testing, findings, remediation, and final assurance conclusions
